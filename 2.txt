@@ -5,3 +5,5 @@ Server code2
 Client code1
 Client code2
 
+CLIENT
+
